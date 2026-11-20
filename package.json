@@ -65,7 +65,7 @@
     "markdownlint-cli2": "0.18.1",
     "markdownlint-rule-search-replace": "1.2.0",
     "node-html-parser": "^7.0.1",
-    "parse-diff": "^0.11.1",
+    "parse-diff": "^0.12.0",
     "prettier": "3.5.3",
     "yaml": "^2.8.0",
     "yargs": "^17.7.2"

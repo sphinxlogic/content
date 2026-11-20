@@ -8010,10 +8010,10 @@ parent-module@^2.0.0:
   dependencies:
     callsites "^3.1.0"
 
-parse-diff@^0.11.1:
-  version "0.11.1"
-  resolved "https://registry.yarnpkg.com/parse-diff/-/parse-diff-0.11.1.tgz#d93ca2d225abed280782bccb1476711ca9dd84f0"
-  integrity sha512-Oq4j8LAOPOcssanQkIjxosjATBIEJhCxMCxPhMu+Ci4wdNmAEdx0O+a7gzbR2PyKXgKPvRLIN5g224+dJAsKHA==
+parse-diff@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/parse-diff/-/parse-diff-0.12.0.tgz#2ea129ba56d1e1594df784c1168e38ea711974a8"
+  integrity sha512-2Xr5mW4Bqd4CqYq2zttfw/RZraK+KcRuJvNkJzbDk3ea67Ap525XeTvBdtDE5tigJMVzIx/DMUzsShAf6+5SCA==
 
 parse-entities@^4.0.0:
   version "4.0.2"
